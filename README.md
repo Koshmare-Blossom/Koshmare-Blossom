@@ -2,6 +2,10 @@
 
 I don't have much to say about myself. I like romance anime. That's enough.
 
+My work revolves around Linux kernel research. I spend most of my time
+rewriting CVEs targeting the kernel - reimplementing them in different languages
+to better understand how they work and what they expose.
+
 ---
 
 ## On GitHub and security researchers
@@ -19,3 +23,7 @@ That's not malware distribution. That's how security works.
 
 Microsoft owns GitHub.
 Connect the dots.
+
+---
+
+[X / Twitter](https://x.com/koshmareflower)
