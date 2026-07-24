@@ -1,10 +1,11 @@
 # Koshmare-Blossom
 
-I don't have much to say about myself. I like romance anime. That's enough.
+Hey. I'm Koshmare-Blossom.
 
-My work revolves around Linux kernel research. I spend most of my time
-rewriting CVEs targeting the kernel - reimplementing them in different languages
-to better understand how they work and what they expose.
+I work as a security auditor and pentester. On the side I'm a software
+developer, and I dig into low-level stuff on Linux and Windows.
+
+I don't have much else to say about myself. I like romance anime. That's enough.
 
 ---
 
@@ -26,4 +27,4 @@ Connect the dots.
 
 ---
 
-[X / Twitter](https://x.com/koshmareflower)
+[Website](https://koshmare-blossom.github.io/) · [X / Twitter](https://x.com/koshmareflower)
